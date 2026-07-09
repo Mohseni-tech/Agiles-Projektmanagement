@@ -2,7 +2,7 @@
 
 > **Die intelligente Rezept-Plattform für moderne Köche**
 
-![YummyGo Screenshot](Koch_App/images/Screenshot.png)
+![YummyGo Screenshot](04-images/Screenshot.png)
 
 ---
 
