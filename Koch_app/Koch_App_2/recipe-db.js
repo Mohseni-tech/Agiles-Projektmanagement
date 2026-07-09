@@ -1,5 +1,5 @@
 /**
- * recipe-db.js Frank
+ * recipe-db.js: Frank (Erstellung), Asad (Bearbeitung der Unterscheidung zwischen vegetarischen und veganen Rezepten)
  * Datenbank-Logik für YummyGo (SQL.js, LocalStorage).
  * Entwicklerhinweis: Hier werden alle Datenbankoperationen für Rezepte umgesetzt.
  */
